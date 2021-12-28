@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/Franzanselmo12/coder-proy-final#readme",
   "devDependencies": {
-    "node-sass": "^7.0.0",
+    "node-sass": "^7.0.1",
     "nodemon": "^2.0.15"
   }
 }
